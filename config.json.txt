@@ -1,0 +1,6 @@
+{
+	"ip":"LolPixel75.aternos.me",
+	"port": "14998",
+	"name": "phantom",
+	"auto-night-skip":"true"
+}
